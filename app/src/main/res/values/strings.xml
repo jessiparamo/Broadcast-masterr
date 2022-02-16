@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">llamada</string>
+    <string name="action_broadcast">com.example.llamada.MIBROACAST</string>
+</resources>
